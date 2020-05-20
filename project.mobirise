@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "thetoniperez",
-    "currentPage": "Formularioproducto.html",
+    "currentPage": "Inicio.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1061,7 +1061,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-5",
-                "caption": "Hoteles",
+                "caption": "<a href=\"Formularioproducto.html#header15-8\" class=\"text-black\">Hoteles</a>",
                 "active": true
               },
               {
@@ -1074,7 +1074,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-5",
-                "caption": "Geriatricos",
+                "caption": "<a href=\"Formularioproducto.html#header15-8\" class=\"text-black\">Geriatricos</a>",
                 "active": false
               },
               {
@@ -1087,7 +1087,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-5",
-                "caption": "Ediificios",
+                "caption": "<a href=\"Formularioproducto.html#header15-8\" class=\"text-black\">Edificios</a>",
                 "active": false
               },
               {
@@ -1100,7 +1100,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-5",
-                "caption": "Singulares",
+                "caption": "<a href=\"Formularioproducto.html#header15-8\" class=\"text-black\">Singulares</a>",
                 "active": false
               },
               {
@@ -1113,7 +1113,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-5",
-                "caption": "Alto Standing",
+                "caption": "<a href=\"Formularioproducto.html#header15-8\" class=\"text-black\">Alto Standing</a>",
                 "active": false
               },
               {
@@ -1126,7 +1126,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-5",
-                "caption": "Campings",
+                "caption": "<a href=\"Formularioproducto.html#header15-8\" class=\"text-black\">Campings</a>",
                 "active": false
               },
               {
@@ -1139,7 +1139,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-5",
-                "caption": "Supermercados",
+                "caption": "<a href=\"Formularioproducto.html#header15-8\" class=\"text-black\">Supermercados</a>",
                 "active": false
               },
               {
@@ -1152,7 +1152,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-5",
-                "caption": "Bodegas",
+                "caption": "<a href=\"Formularioproducto.html#header15-8\" class=\"text-black\">Bodegas</a>",
                 "active": false
               },
               {
@@ -1165,7 +1165,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-5",
-                "caption": "Restaurantes",
+                "caption": "<a href=\"Formularioproducto.html#header15-8\" class=\"text-black\">Restaurantes</a>",
                 "active": false
               }
             ]
